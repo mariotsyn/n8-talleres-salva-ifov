@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Talleres Salva",
+    "tagline": "Tu coche, nuestra pasión. Confianza y calidad.",
+    "description": "En Talleres Salva, cuidamos de tu vehículo como si fuera nuestro. Ofrecemos servicios de reparación y mantenimiento con la máxima profesionalidad y un trato cercano en Dénia. Nuestra experiencia garantiza la seguridad y el rendimiento óptimo de tu automóvil.",
+    "phone": "+34 965 78 69 90",
+    "address": "Madrigueres sud 57, 03700 Denia, Alicante, España",
+    "email": "info@talleresalva.es",
+    "rating": 4.5,
+    "reviewCount": 96,
+    "hours": ["Monday: 8:00 AM – 2:00 PM, 3:30 – 6:30 PM","Tuesday: 8:00 AM – 2:00 PM, 3:30 – 6:30 PM","Wednesday: 8:00 AM – 2:00 PM, 3:30 – 6:30 PM","Thursday: 8:00 AM – 2:00 PM, 3:30 – 6:30 PM","Friday: 8:00 AM – 2:00 PM, 3:30 – 6:30 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#2C3E50",
+    "secondary": "#1A242F",
+    "accent": "#F39C12",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Tu Coche en las Mejores Manos. Conduce con Confianza.",
+    "subheadline": "Expertos en reparación y mantenimiento automotriz en Dénia. Recupera la tranquilidad al volante con nuestro servicio profesional y garantizado.",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Ver Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJo7zxXXobnhIR6E13wvhMEzo/photos/ATCDNfUh7Fxj9MYyn6l5bCGVJqbTL7XbpX_7T6nPd7tXfCa_Kd4xhHYa9HOeOTkuWmACtFU1m3GJvAbLwefa-vm6rWijtI1zdEyo8Y_59jiXcH30XPO6G3d1z_KeSaKpL6gMI4UFOilV_wPn5WTGaIihHPgjr9WFNet2egwRk7TuiPYqFhEgDX22yp8yXZnzHORceHqnOrX3HubZieMjYTrTc7Tb-sxuULGt23PZ-6sSZcP4MNbMPyWlr_v1824YOkwKyut5Ww-9ObFJ_wQjW1VOFgREN8JxDHrEMgkjpTlHAizF5RMwD7OAcmbf-0qvhr1EyD97gc0CzkTpSRD1k6J1HJTgtizv_WvlvvETL4NJiHCJn9b_O5Za6EmZv6dHlonvfs5IsS_Hm4V143nCTf3ZRQlJELsV8uMzvpquaLiFtj9imw/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🔧", "title": "Mantenimiento Preventivo", "description": "Evita averías costosas y prolonga la vida útil de tu coche con nuestras revisiones periódicas. Garantizamos el rendimiento óptimo de tu vehículo." },
+    { "icon": "⚙️", "title": "Mecánica General", "description": "Diagnóstico preciso y reparación experta de cualquier problema mecánico. Desde frenos a la distribución, tu coche estará en perfectas condiciones." },
+    { "icon": "💡", "title": "Diagnóstico Electrónico", "description": "Localizamos fallos complejos en el sistema electrónico de tu vehículo con tecnología avanzada. Soluciones rápidas y eficientes para tu tranquilidad." },
+    { "icon": "🚗", "title": "Pre-ITV y Revisión", "description": "Preparamos tu coche para la ITV con una revisión exhaustiva. Aseguramos que cumpla todos los requisitos para pasar la inspección sin problemas." }
+  ],
+  "about": {
+    "title": "Sobre Talleres Salva: Tu Confianza en Dénia",
+    "text": "En Talleres Salva, llevamos más de dos décadas al servicio de los conductores de Dénia y alrededores. Nacimos con la visión de ofrecer un servicio de reparación y mantenimiento automotriz basado en la honestidad, la transparencia y la excelencia.\n\nNuestro equipo de mecánicos altamente cualificados se mantiene en constante formación para dominar las últimas tecnologías y técnicas del sector. Sabemos que tu vehículo es una parte esencial de tu día a día, y nos esforzamos por devolverte la seguridad y el confort en cada trayecto.\n\nCon una valoración de 4.5 estrellas en Google, somos el taller de confianza elegido por cientos de clientes. Ven a conocernos en Madrigueres sud 57 y descubre por qué Talleres Salva es la elección inteligente para el cuidado de tu coche.",
+    "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJo7zxXXobnhIR6E13wvhMEzo/photos/ATCDNfUh7Fxj9MYyn6l5bCGVJqbTL7XbpX_7T6nPd7tXfCa_Kd4xhHYa9HOeOTkuWmACtFU1m3GJvAbLwefa-vm6rWijtI1zdEyo8Y_59jiXcH30XPO6G3d1z_KeSaKpL6gMI4UFOilV_wPn5WTGaIihHPgjr9WFNet2egwRk7TuiPYqFhEgDX22yp8yXZnzHORceHqnOrX3HubZieMjYTrTc7Tb-sxuULGt23PZ-6sSZcP4MNbMPyWlr_v1824YOkwKyut5Ww-9ObFJ_wQjW1VOFgREN8JxDHrEMgkjpTlHAizF5RMwD7OAcmbf-0qvhr1EyD97gc0CzkTpSRD1k6J1HJTgtizv_WvlvvETL4NJiHCJn9b_O5Za6EmZv6dHlonvfs5IsS_Hm4V143nCTf3ZRQlJELsV8uMzvpquaLiFtj9imw/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior de Talleres Salva, espacio de trabajo con herramientas y un vehículo en reparación." },
+    { "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80", "alt": "Mecánico trabajando en el motor de un coche, detallando una reparación." },
+    { "url": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80", "alt": "Vista aérea de un coche en un elevador hidráulico dentro de un taller mecánico moderno." },
+    { "url": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1200&q=80", "alt": "Mecánico revisando la parte inferior de un vehículo, centrado en la suspensión y el chasis." }
+  ],
+  "testimonials": [
+    { "name": "Carlos García", "stars": 5, "text": "Siempre llevo mi coche a Talleres Salva. El servicio es impecable, rápido y con total transparencia. ¡Muy recomendables!" },
+    { "name": "Ana López", "stars": 5, "text": "Profesionalidad y un trato excelente. Explicaron todo el proceso y el precio fue justo. Mi coche quedó perfecto." },
+    { "name": "Javier Ruiz", "stars": 4, "text": "Buen trabajo y atención. Tuvieron mi coche listo a tiempo, aunque el diagnóstico inicial tardó un poco más de lo esperado." }
+  ],
+  "contact": {
+    "title": "¿Necesitas ayuda con tu coche? ¡Contáctanos!",
+    "subtitle": "Estamos listos para atenderte y resolver cualquier problema automotriz en Dénia. Llámanos o visítanos.",
+    "whatsappNumber": "+34 965 78 69 90",
+    "showMap": true,
+    "mapQuery": "Talleres Salva Madrigueres sud 57, 03700 Denia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Talleres Salva"
+  }
+}
